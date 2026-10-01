@@ -1,0 +1,8 @@
+{
+  "name": "Vennela Travel Agent",
+  "description": "Enter your journey details to get transport options, travel dates, and an estimated total trip cost powered by n8n travel agent automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
